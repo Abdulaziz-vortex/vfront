@@ -30,6 +30,7 @@
 		
 		<div class="content">
 			<div class="container">Content here</div>
+			<div class="container">has been updated !</div>
 		</div>
 		
 		<!-- Footer section here -->
